@@ -1,0 +1,14 @@
+[
+   {
+    "courseId":1,
+    "courseName":"aaa"
+   },
+   {
+    "courseId":2,
+    "courseName":"bbb"
+   },
+   {
+    "courseId":3,
+    "courseName":"ccc"
+   }
+]

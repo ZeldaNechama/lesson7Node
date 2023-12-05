@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "cahi chaim",
+        "phone": "050-1514842",
+        "email": "de@FF",
+        "role": "manger",
+        "department": "b",
+        "joinDate": "10-10-2020"
+    },
+    {
+        "id": 2,
+        "name": "lion sumi",
+        "phone": "053-4484848",
+        "email": "lionsumi@gmail.com",
+        "role": "director",
+        "department": "a",
+        "joinDate": "10-10-2023"
+    },
+    {
+        "id": 3,
+        "name": "yosef yosefi",
+        "phone": "052-5484841",
+        "email": "yyyy@gmail.com",
+        "role": "worker",
+        "department": "c",
+        "joinDate": "05-10-2023"
+    },
+    {
+        "id": 4,
+        "name": "yeudah",
+        "phone": "055-5148485",
+        "email": "cvheve@mjvnF",
+        "role": "worker",
+        "department": "a",
+        "joinDate": "27-11-2013"
+    }
+]
